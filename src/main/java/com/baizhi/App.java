@@ -13,6 +13,7 @@ public class App extends SpringBootServletInitializer {
         SpringApplication.run(App.class, args);
         System.out.println("Hello World!");
         System.out.println("github!");
+        System.out.println("i must success");
     }
 
     @Override
